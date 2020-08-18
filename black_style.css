@@ -1,0 +1,10 @@
+*{color:black}
+a{color: white; font-size: 20px; border-style: solid; padding: 3px; text-decoration:none; }
+body{background-color: green}
+li{margin: 30px; }
+h1{color: green; font-family: 궁서; font-size: 50px; font-weight: 50px;}
+h2{color:orange ; font-size: 40px; text-decoration: underline;}
+.ht{color: blue; font-size: 18px; font-style: oblique; text-decoration: line-through;}
+.image{border-style: solid; border-width: 7px; border-color: white;}
+#lol{border-style: dashed; padding: 7px;}
+#select{border-style: dashed; border-color: white; background-color: red; font-style: italic;}

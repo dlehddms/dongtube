@@ -1,0 +1,9 @@
+*{color:black}
+a{color: white; font-size: 20px; border-style: solid; padding: 3px; text-decoration:none; }
+body{background-color: skyblue}
+li{margin: 30px; }
+h1{color: green; font-family: 궁서; font-size: 50px; font-weight: 50px; display:inline-block; margin:10px; padding:5px; border:dotted 10px black; color:yellow;
+font-weight:bold; background:pink;}
+h2{color:orange ; font-size: 40px; text-decoration: underline;}
+.ht{color: blue; font-size: 18px; font-style: oblique; text-decoration: line-through;}
+.image{border-style: solid; border-width: 10px; border-color: black;}
